@@ -1,2 +1,2 @@
 lalla hahah moo deng
-<img align="right" width="200" height="200" src="/assets/IMG/moo_deng.png">
+<img align="center" width="1000" height="1000" src="/assets/IMG/moo_deng.png">
