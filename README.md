@@ -4,5 +4,16 @@ lalla hahah moo deng
 
 
 ## Letter Classification
-### Hannah Le, [date]
-### Department of Atmospheric and Oceanic Sciences
+Hannah Le
+UCLA Department of Atmospheric and Oceanic Sciences
+[date]
+
+### Introduction
+### Data
+### Modeling
+### Results
+### Discussion
+### Conclusion
+### References
+
+
