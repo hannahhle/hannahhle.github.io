@@ -4,8 +4,8 @@ lalla hahah moo deng
 
 
 ## Letter Classification
-Hannah Le
-UCLA Department of Atmospheric and Oceanic Sciences
+Hannah Le  
+UCLA Department of Atmospheric and Oceanic Sciences  
 [date]
 
 ### Introduction
