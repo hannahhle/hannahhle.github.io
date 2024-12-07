@@ -4,16 +4,6 @@ lalla hahah moo deng
 
 
 ## Letter Classification
-Hannah Le  
-UCLA Department of Atmospheric and Oceanic Sciences  
-[date]
-
-### Introduction
-### Data
-### Modeling
-### Results
-### Discussion
-### Conclusion
-### References
+[here's](https://colab.research.google.com/drive/1endlV-rQl5P6LqIz762wmDO4HQpRJSm_?usp=sharing) the code to my project! 
 
 
