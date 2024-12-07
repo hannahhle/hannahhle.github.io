@@ -1,4 +1,5 @@
-<img align="right" width="600" height="450" src="/assets/IMG/moo_deng.png">
+<img align="right" width="300" height="225" src="/assets/IMG/moo_deng.png">
+<img align="right" width="300" height="225" src="/assets/IMG/caoy.png">
 
 ## Letter Classification
 [here's](/assets/aos_paper.pdf) a link to my report!
