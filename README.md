@@ -1,4 +1,4 @@
-<img align="right" width="290" height="215" src="/assets/IMG/moo_deng.png">
+<img align="right" width="290" height="240" src="/assets/IMG/moo_deng.png">
 <img align="right" width="290" height="240" src="/assets/IMG/caoy.png">
 
 ## Letter Classification
